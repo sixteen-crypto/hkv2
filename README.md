@@ -3,8 +3,7 @@ Earn Crypto Telegram Bot
 
 - link bot [clickme](https://cuty.io/jEEp)
 
-![image](https://github.com/sixteen-crypto/only_images_for_SIXTEEN/blob/main/Screenshot_20230826-102424.png)
-
+![image](https://github.com/sixteen-crypto/only_images_for_SIXTEEN/blob/main/Screenshot_20231006-145517.png)
 Auto Installion Of Modules
 
 Manual installation
@@ -18,3 +17,5 @@ Manual installation
  - _pip install bs4_
 
  - _pip install requests_toolbelt_
+
+TUTORIAL
