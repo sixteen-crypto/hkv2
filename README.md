@@ -19,3 +19,4 @@ Manual installation
  - _pip install requests_toolbelt_
 
 TUTORIAL
+https://youtu.be/5wKPyHLnKRE?si=7bDllJiI-UkNqHn3
